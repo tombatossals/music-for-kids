@@ -1,31 +1,20 @@
 {
-  "author": "https://github.com/tombatossals/angular-leaflet-directive/graphs/contributors",
-  "name": "angular-leaflet-directive",
-  "description": "angular-leaflet-directive - An AngularJS directive to easily interact with Leaflet maps",
-  "version": "0.5.1",
-  "homepage": "http://tombatossals.github.io/angular-leaflet-directive/",
+  "author": "David Rubert",
+  "name": "music-for-kids",
+  "description": "music-for-kids - Presentaciones de enseñanza de teoría musical y piano para niños",
+  "version": "0.0.1",
+  "homepage": "http://tombatossals.github.io/music-for-kids/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tombatossals/angular-leaflet-directive"
+    "url": "https://github.com/tombatossals/music-for-kids"
   },
   "keywords": [
-    "angularjs",
-    "leaflet",
-    "cli"
+    "revealjs",
+    "presentation"
   ],
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
-    "grunt": "latest",
-    "grunt-contrib-uglify": "latest",
-    "grunt-contrib-jshint": "latest",
-    "grunt-contrib-copy": "latest",
-    "grunt-contrib-watch": "latest",
-    "grunt-contrib-concat": "latest",
-    "grunt-contrib-connect": "latest",
-    "reveal.js": "latest",
-    "bower": "latest",
-    "yo": "latest",
     "generator-reveal": "latest"
   }
 }
