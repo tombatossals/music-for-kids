@@ -2,10 +2,9 @@
   color: black;
   background: white;
   padding: 0.2em 1em;
-  font-family: "Impact";
   font-size: 1.5em;
   width: 100%;
-  opacity: .5;
+  opacity: .7;
   position: absolute;
   top: -6em;
   border-radius: 12px;
@@ -66,8 +65,8 @@
   padding: .3em;
 }
 
-.reveal h2 {
-  font-family: 'Kavoon', cursive;
+.reveal h2, .reveal h1 {
+  font-family: 'Ribeye', cursive;
 }
 
 .reveal pre {
